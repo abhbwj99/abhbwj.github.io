@@ -1,0 +1,45 @@
+html{
+    background-color: black;
+}
+.sub_heading{
+    
+    color: white;
+    font-size: 40px;
+    font-family: "Inter Medium";
+    padding-left: 434px;
+}
+.bottom_line{
+    
+    padding-bottom: 50px;
+}
+.pub_img{
+
+    padding-top: 100px;
+    object-fit: cover;
+}
+.subsub{
+
+    color: white;
+    font-size: 14px;
+    font-family: "Inter Thin";
+}
+.lilmore{
+    
+    font-family: "Inter Thin";
+    font-size: 18px;
+    padding-right: 463px;
+    
+}
+.link_1{
+
+    color: white;
+    font-size: 18px;
+    font-family: "Inter Medium";
+    padding-left: 845px;
+}
+.para_20{
+    
+    padding-left: 385px;
+    font-size: 18px;
+    font-family: "Inter Thin";
+}

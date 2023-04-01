@@ -1,0 +1,332 @@
+html {
+    background-color:dimgrey;
+}
+.sub_heading{
+ 
+    color: #EBC944;
+    font-size: 25px;
+    font-family: "Baskerville Normal";
+    line-height: 1.27;
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+.titleword{
+    
+    font-family: "Inter Semi Bold";
+    
+    font-size: 62px;
+    padding-left: 576px;
+   
+    
+}
+.bottom_line
+{
+    align-content: center;
+    padding-bottom: 100px;
+}
+.bottom_line_1{
+    
+    padding-top: 1280px;
+    padding-left: 304px;
+}
+.contact_no{
+    
+    padding-left: 400px;
+    padding-bottom: 100px;
+}
+.verticle_line{
+    
+    align-content: center;
+}
+.photo_heading_above{
+    
+    color: white;
+    font-family: "Inter Thin";
+    font-size: 45px;
+    padding-top: 10px;
+    align-items: center;
+    justify-content:center;
+    
+}
+.semara_body{
+    
+    color:white;
+    font-family: "Inter Medium";
+    font-size: 19px;
+}
+.photo_heading_bottom{
+    
+    color: #EBC944;
+    font-family: "Inter Thin";
+    font-size: 35px;
+    align-items: center;
+    justify-content:center;
+}
+.photo3_heading_bottom{
+    
+    color: #EBC944;
+    font-family: "Inter Thin";
+    align-items: center;
+    justify-content: center;
+    font-size: 35px;
+}
+.photo2_heading_bottom{
+    
+    color: #EBC944;
+    font-family: "Inter Thin";
+    padding-left: 10px;
+    align-items: center;
+    justify-content: center;
+    font-size: 35px;
+    
+}
+.retouch{
+    
+    font-family: "Inter Medium";
+}
+.photo33_heading_bottom{
+    
+    color:white;
+    font-family: "Inter Medium";
+    align-items: center;
+    justify-content: center;
+    font-size: 19px;
+}
+.semiosis_heading_bottom{
+    
+    color: #EBC944;
+    font-family: "Inter Thin";
+    align-items: center;
+    justify-content: center;
+    font-size: 35px;
+}
+.profilepic{
+    
+    padding-top: 10px;
+}
+.photo_heading_2{
+    
+    color: white;
+    font-family: "Inter Thin";
+    font-size: 45px;
+    padding-top: 10px;
+    padding-left: 12px;
+    align-items: center;
+    justify-items: center;
+   
+}
+.video2_heading_bottom{
+    
+    color:white;
+    font-family: "Thin Light";
+    font-size: 50px;
+    align-items: center;
+    justify-items: center;
+}
+.url{
+    
+    padding-left: 80%;
+    align-items: right;
+    color: black;
+    font-family: "Inter Semibold";
+}
+.url_2{
+    
+    padding-left: 75%;
+    font-family: "Inter Light";
+    font-size: 18px;
+    color: black;
+    font-family: "Inter Semibold";
+    
+}
+.url_3{
+
+    padding-left: 79.5%;
+    font-family: "Inter Light";
+    font-size: 18px;
+    color: black;
+    font-family: "Inter Semibold";
+    
+    
+}
+.url_4{
+    
+    padding-left: 77%;
+    padding-top: 10px;
+    align-items: right;
+    font-family: "Inter Semibold";
+    font-size: 18px;
+    color: black;
+
+    
+}
+.url_5{
+    
+    padding-left: 79.5%;
+    align-items: right;
+    font-family: "Inter Semibold";
+    font-size: 18px;
+    color: black;
+}
+.video_para
+{
+    color:white;
+    font-family: "Inter Light";
+    align-items: center;
+    justify-items: center;
+}
+.product_graphics_subheading{
+    
+    color: #EBC944;
+    font-size: 35px;
+    font-family: "Inter Thin";
+}
+.product_graphics_para{
+    
+    font-family: "Inter Medium";
+    font-size: 18px;
+}
+.para1{
+    
+    color: white;
+    font-family: "Inter Thin";
+    font-size: 18px;
+    align-items: center;
+    justify-content:center;
+    
+}
+.para2{
+    
+    color: white;
+    font-family: "Inter Thin";
+    font-size: 20px;
+    align-items: center;
+    justify-content:center;
+}
+.para3{
+    
+    color: white;
+    font-family: "Inter Thin";
+    font-size: 20px;
+}
+.sub_heading_product_graphics
+{
+    font-family: "Inter Thin";
+    padding-top: 10%;
+}
+.subheading_latranquill{
+    
+    font-size: 18px;
+    padding-left: 13px;
+    font-family: "Inter Medium";
+}
+.design_through_semiosis{
+    
+    
+    color: white;
+    font-size: 45px;
+    font-family: "Inter Thin";
+    align-items: left;
+    justify-items: left;
+    padding-top: 23%;
+    
+}
+selection{
+    
+    height: 480px;
+}
+
+img{
+
+    width: 600px;
+    height: 500px;
+    object-fit: cover;
+    filter: drop-shadow(5.6px 5.6px 5.6px rgba(0,0,0,0.6));
+   
+}
+.namename{
+    
+    font-family: "Circular Std Book";
+    padding-left: 304px;   
+}
+#house1{
+    
+    padding-left: 10%;
+    padding-top: 11%;
+    float: left;
+}
+#house2{
+    padding-right: 10%;
+    padding-top: 11%;
+    float: right;
+}
+.dropshadow{
+    
+    filter: drop-shadow(5.6px 5.6px 5.6px rgba(0,0,0,0.6));
+}
+.dropshadow_1{
+    
+    filter: drop-shadow(5.6px 5.6px 5.6px rgba(0,0,0,0.6));
+}
+.video_heading_society{
+    
+    color: white;
+    font-size: 45px;
+    font-family: "Inter Thin";
+    align-items: left;
+    justify-items: left;
+    padding-top: 15%;
+}
+.design_through_semiosis{
+    
+    color: white;
+    font-size: 40px;
+    font-family: "Inter Light";
+    align-items: left;
+    justify-items: left;
+    padding-top: 23%;
+}
+.product_graphics_heading
+{
+    color: white;
+    font-size: 45px;
+    font-family: "Inter Thin";
+    align-items: right;
+    justify-items: right;
+    padding-top: 13%;
+}
+.sdsd{
+    
+    padding-left: 20px;
+}
+#video_grid{
+    
+    float: left;
+    object-fit: cover;
+    
+}
+h2 {
+    margin-top: 1.3em;
+}
+
+a {
+    color: #0083e8;
+}
+
+b, strong {
+    font-weight: 600;
+}
+
+samp {
+    display: none;
+}
+@keyframes colorize {
+    0% {
+        -webkit-filter: black(100%);
+        filter: grayscale(100%);
+    }
+    100% {
+        -webkit-filter: black(100%);
+        filter: grayscale(0%);
+    }
+}

@@ -1,0 +1,45 @@
+html {
+    background-color: black;
+}
+.sub_heading{
+ 
+    color: white;
+    font-size: 35px;
+    font-family: "Century Gothic Light";
+    padding-left: 497px;
+}
+.bottom_line{
+    
+    line-height: 1;
+    align-content: center;
+    width: 1920px;
+}
+.bottom_line_2{
+    
+    align-content:center;
+    width: 1920px;
+}
+#semiosis_1{
+    
+    float:left;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+.number{
+    
+    color: white;
+    font-family: "Inter Black";
+    font-size: 15px;
+}
+.number_1{
+    color: white;
+    font-family: "Inter Black";
+    font-size: 15px;
+
+}
+#semiosis_2{
+    
+    float: right;
+    padding-right: 50px;
+    padding-top:39px;
+}

@@ -1,0 +1,110 @@
+html {
+    background-color: black;
+}
+.sub_heading{
+ 
+    color: white;
+    font-size: 60px;
+    font-family: "Mangsi";
+    padding-left: 536px;
+}
+.sub_line{
+    
+    color: white;
+    font-size: 30px;
+    font-family: "Atkinson Hyperlegible Regular";
+}
+.vident{
+    
+    padding-top: 50px;
+    padding-left: 3px;
+
+}
+#house1{
+    
+    float: left;
+}
+.vident_vid{
+    
+    padding-left: 150px;
+    padding-right: 200px;
+}
+.vident_vid_2{
+    
+    padding-left: 200px;
+}
+.heading_1{
+    
+    color: white;
+    font-family: "Source Serif Variable Roman";
+    font-size: 40px;
+    padding-left: 365px;
+}
+.heading_2{
+    
+    color: white;
+    font-family: "Source Serif Variable Roman";
+    font-size: 40px;
+    padding-right: 134px
+
+}
+.vidgold{
+    
+    padding-left: 245px;
+}
+.vident_ticket{
+    
+    padding-top: 10px;
+    padding-right: 300px;
+}
+.mid_heading{
+    
+    color:white;
+    font-size: 40px;
+    font-family: "Source Serif Variable Roman";
+    text-align: center;
+    padding-right: 40px
+}
+.live_mockup{
+    
+    padding-top: 50px;
+}
+.manual_heading{
+    
+    color:white;
+    font-family: "Source Serif Variable Roman";
+    padding-top: 50px;
+    font-size: 45px;
+    text-align: center;
+
+}
+.last_img{
+    
+    padding-top: 50px;
+    padding-left: 13px;
+}
+.globe_img{
+    
+    padding-top: 50px;
+    padding-left: 850px
+}
+.bottommost{
+    
+    color:white;
+    font-size: 25px;
+    font-family: "Source Serif Variable Roman";
+    padding-left: 42px
+
+}
+.sub_tag{
+    
+    color:white;
+    font-size: 20px;
+    font-family: "Source Serif Variable Roman";
+    padding-left: 230px;
+}
+#house2{
+    
+    float: right;
+    padding-right: 236px;
+}
